@@ -1,0 +1,13 @@
+{
+  "db": {
+    "host": "3.14.46.194",
+    "port": 25018,
+    "url": "",
+    "database":"ttmeridadb",
+    "password": "",
+    "name": "db",
+    "user": "",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
