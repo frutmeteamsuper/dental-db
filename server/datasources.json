@@ -3,7 +3,7 @@
     "host": "3.14.46.194",
     "port": 25018,
     "url": "",
-    "database":"ttmeridadb",
+    "database":"dentalDB",
     "password": "",
     "name": "db",
     "user": "",
